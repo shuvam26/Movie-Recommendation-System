@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+__pycache__/
+output/Seminar/item_similarities.txt
+output/Seminar/user_similarities.txt
+output/Seminar/distanceMatrix.dst
